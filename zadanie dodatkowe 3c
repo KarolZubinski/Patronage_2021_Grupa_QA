@@ -1,3 +1,10 @@
 https://drive.google.com/file/d/1LrV7l-D18j5eQrrMl17Co4toTYWDp6Zc/view?usp=sharing
 
 Bug report, login is not successful on https://phptravels.org/clientarea.php website
+
+1. Severity = Blocker. Jezeli admin nie moze sie zalogowac to aplikacja nie moze byc wydana na rpodukcje.
+2. to chyba nie powinno znajdowac sie w raporcie:
+Expected result
+The cart should contain 2 items
+Actual result
+The cart contains only 1 item
