@@ -3,3 +3,12 @@ https://drive.google.com/file/d/1Ei6rqqAUOWjbfMDYmmEt4U2g_OGqeEpF/view?usp=shari
 
 Napisz w kilku zdaniach w jakim celu testujemy oprogramowanie manualnie i
 dlaczego tworzymy testy automatyczne?
+
+Review:
+1. Zachęcam do zapoznania się z pojęciami, które właściwie opisałeś:  werfykacji i walidacji, awaria.
+2. Ze specjalistami to tak bym nie przesadzał. :) . 
+Każdy może być specjalistą/ekspertem w danej domenie, nawet w testach manualnych. 
+Można np. wykonywac testy manulane webserwisów, gdzie też trzeba mieć całkiem niezłą wiedzę.
+3. Poruszyłeś temat zwrotu z inwestycji, co mi sie bardzo podoba. 
+4. Pierwsze zdanie jest bardzo słuszna, o zbieraniu onformacji.
+5. W testach automatycznych wspomnialbym o sprawdzaniu regresji.
