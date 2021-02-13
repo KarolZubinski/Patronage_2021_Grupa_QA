@@ -1,3 +1,6 @@
 https://drive.google.com/file/d/1-ErG4Yp5hIFS3IAIodpOSLGuSfUfun78/view?usp=sharing
 
 Opis i schemat cyklu życia błędu.Cykl życia błędu od ponownego otwarcia jest (opis)pogrubiony i (schemat) zaznaczony na zielono.
+
+1. Wszystko ok, zastanowilbym sie czy istnieja sytuacje, ze po ponownym otwarciu bug moze byc odrzucony , 
+np. w sytuacji kiedy priorytet ma zbyt niski by byl kiedykolwiek naprawiony lub analiza po ponownym otwarciu odbedzie sie po 6 miesiacach i juz nie bedzie aktualny.
