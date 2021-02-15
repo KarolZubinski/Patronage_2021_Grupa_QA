@@ -4,3 +4,5 @@ Test Scenario-Check login functionality on https://phptravels.com/demo website
 
 Reveiew:
 1. Fajnie, ale generalnie warto byloby zmniejszyc ilosc TestCasow. Pozniej bedzie ciezko utrzymac taka ilosc.
+
+Ad 1. Można by zrezygnować z przypadków nr 5,6 i 7.
