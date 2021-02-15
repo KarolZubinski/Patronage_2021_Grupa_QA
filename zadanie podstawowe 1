@@ -12,3 +12,9 @@ Można np. wykonywac testy manulane webserwisów, gdzie też trzeba mieć całki
 3. Poruszyłeś temat zwrotu z inwestycji, co mi sie bardzo podoba. 
 4. Pierwsze zdanie jest bardzo słuszna, o zbieraniu onformacji.
 5. W testach automatycznych wspomnialbym o sprawdzaniu regresji.
+
+Ad 1. Oczywiście.
+Ad 2. To prawda ale miałem na myśli że np początkujący tester to może robić a bardziej wprawiony zajmuje się innymi rzeczami jak testy bezpieczeństwa czy webserwisów.
+Ad 3. :)
+Ad 4. :)
+Ad 5. Tak, tutaj też chodzi o testy regresji które również możemy przeprowadzać szybciej i np w nocy.
